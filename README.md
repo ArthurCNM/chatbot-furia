@@ -15,7 +15,7 @@ Está sendo utilizado AI Ollama e API PandaScore
     pip install request <br>
     pip install ollama <br>
 
-<b>3° Lembre de colocar a sua API Key do PandaScore</b> <br>
+<b>3° Lembre de colocar a sua API Key do <a href="https://app.pandascore.co/dashboard/main" PandaScore </a> </b> <br>
 
 <b>4° Execute o script</b> <br>
 python main.py
