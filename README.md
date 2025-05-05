@@ -14,6 +14,6 @@ Está sendo utilizado AI Ollama e API PandaScore
 <b>2° Instale os requisitos: <br> </b>
     pip install request <br>
     pip install ollama <br>
-
-<b>3° Execute o script</b> <br>
+<b>3° Lembre de colocar a sua API Key </b>
+<b>4° Execute o script</b> <br>
 python main.py
